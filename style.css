@@ -1,0 +1,11 @@
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background: #16264d; color: #f4f8ff; line-height: 1.55; }
+main { max-width: 760px; margin: 0 auto; padding: 32px 22px 60px; }
+header { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; }
+header img { width: 72px; height: 72px; border-radius: 16px; }
+h1 { font-size: 28px; margin: 0; }
+h2 { color: #ffc629; font-size: 20px; margin-top: 30px; }
+a { color: #6fc3ff; }
+ul { padding-left: 20px; }
+.card { background: rgba(255,255,255,0.07); border-radius: 14px; padding: 4px 20px 14px; margin: 18px 0; }
+.lang { font-size: 14px; opacity: 0.85; }
+footer { margin-top: 40px; font-size: 13px; opacity: 0.7; }
